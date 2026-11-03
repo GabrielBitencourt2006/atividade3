@@ -24,7 +24,8 @@ Exemplo de body: `{"a": 10, "b": 5}`
 ## Evidências
 
 ### GET /
-<img width="1365" height="730" alt="image" src="https://github.com/user-attachments/assets/159fe259-6980-4b9a-bb8c-a1e20a15e347" />
+<img width="1535" height="811" alt="image" src="https://github.com/user-attachments/assets/e5daa977-3514-4db4-90ad-702392a42166" />
+
 
 
 ### POST /soma
