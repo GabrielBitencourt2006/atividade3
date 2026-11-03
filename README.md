@@ -42,5 +42,6 @@ Exemplo de body: `{"a": 10, "b": 5}`
 
 
 ### POST /divisao
-<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/2f9f548e-a69d-4034-9309-7902e95c7070" />
+<img width="1535" height="797" alt="image" src="https://github.com/user-attachments/assets/e06a5ace-ca99-404c-b26e-18b6db126304" />
+
 
