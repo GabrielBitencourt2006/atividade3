@@ -17,7 +17,7 @@ O servidor roda em http://localhost:3001
 | POST | /soma | Soma `a` e `b` |
 | POST | /subtracao | Subtrai `b` de `a` |
 | POST | /multiplicacao | Multiplica `a` por `b` |
-| POST | /divisao | Divide `a` por `b` (erro se `b` for 0) |
+| POST | /divisao | Divide `a` por `b` |
 
 Exemplo de body: `{"a": 10, "b": 5}`
 
