@@ -33,7 +33,14 @@ Exemplo de body: `{"a": 10, "b": 5}`
 
 
 ### POST /subtracao
+<img width="1535" height="797" alt="image" src="https://github.com/user-attachments/assets/b63009e3-f523-4eb7-9b39-290734fe42ca" />
+
+
 
 ### POST /multiplicacao
+<img width="1535" height="802" alt="image" src="https://github.com/user-attachments/assets/7327a5da-9788-4870-83b3-8d21b66b417a" />
+
 
 ### POST /divisao
+<img width="1535" height="862" alt="image" src="https://github.com/user-attachments/assets/2f9f548e-a69d-4034-9309-7902e95c7070" />
+
