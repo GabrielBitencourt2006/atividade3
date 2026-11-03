@@ -29,6 +29,8 @@ Exemplo de body: `{"a": 10, "b": 5}`
 
 
 ### POST /soma
+<img width="1535" height="783" alt="image" src="https://github.com/user-attachments/assets/3786ca8a-3628-4bfe-a05c-eedb7980342b" />
+
 
 ### POST /subtracao
 
